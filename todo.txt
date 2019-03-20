@@ -1,4 +1,4 @@
 1. Associate dogs with owners
-2. Allow editing only by owner (dependecy on 1)
-3. Allow users to like other dogs (not their own) (dependecy on 1)
-4. Allow sorting the index page by number of likes in the last hour (dependecy on 3)
+2. Allow editing only by owner (dependency on 1)
+3. Allow users to like other dogs (not their own) (dependency on 1)
+4. Allow sorting the index page by number of likes in the last hour (dependency on 3)
